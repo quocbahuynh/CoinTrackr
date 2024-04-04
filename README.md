@@ -19,6 +19,4 @@ For any inquiries or support, please contact quochbcontact@gmail.com
 Thank you for using CoinTrackr! We hope you find it useful in your cryptocurrency trading journey.
 ## Preview
 
-
-
-
+![Screenshot 2024-03-10 at 05-12-13 CoinFundingTrack](https://github.com/quocbahuynh/CoinTrackr/assets/39693803/f74a1f47-ddee-4423-985c-0bfb5df55ee7)
